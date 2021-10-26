@@ -33,7 +33,7 @@ TNICYBER{b4804d6ede3b317f37994215f6b15ea9}
 TNICYBER{15905ff297dfacc38cc097712a14a707}
 TNICYBER{362ca9ca90f302ce6b762b9bc2e04fe2}
 --------------------------------------------------
-All flags has been saved as "TNICYBER_flags.txt"
+All flags have been saved as "TNICYBER_flags.txt"
 ```
 
 ---
