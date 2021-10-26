@@ -5,7 +5,7 @@
 
 ### Runs
 ```cmd
-$ python flaggen.py
+$ python pakflag.py
 ```
 
 ### Inputs
