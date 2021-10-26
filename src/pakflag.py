@@ -38,7 +38,7 @@ def main():
     gen_flag(name, num, length)
     print('-' * 50)
 
-    print('All flags has been saved as "{}"'.format(filename))
+    print('All flags have been saved as "{}"'.format(filename))
 
 
 if __name__ == '__main__':
