@@ -10,9 +10,9 @@ $ python pakflag.py
 
 ### Inputs
 ```cmd
-Flags' name	: <FLAG_NAME>
-Length		: <KEY_LENGTH>
-Number		: <NUMBER_OF_FLAG>
+Flags' name	: <FLAG_NAME: str>
+Length		: <KEY_LENGTH: int>  // Default is 32 (MD5 hex digit)
+Number		: <NUMBER_OF_FLAG: int>  // Default is 100
 ```
 > List of flags will be saved as `<FLAG_NAME>_flags.txt`
 
