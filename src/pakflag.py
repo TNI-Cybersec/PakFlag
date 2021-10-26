@@ -32,7 +32,6 @@ def main():
 
     global filename
     filename = f"{name}_flags.txt"
-    open(filename, mode='w')
 
     print('-' * 50)
     gen_flag(name, num, length)
