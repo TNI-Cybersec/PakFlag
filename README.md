@@ -11,7 +11,7 @@ $ python pakflag.py
 ### Inputs
 ```cmd
 Flags' name	: <FLAG_NAME: str>
-Length		: <KEY_LENGTH: int>	// Default is 32 (MD5 hex digit)
+Length		: <KEY_LENGTH: int>	// Default is 32 (MD5 hex digit), only even numbers
 Number		: <NUMBER_OF_FLAG: int>	// Default is 100
 ```
 > List of flags will be saved as `<FLAG_NAME>_flags.txt`
@@ -19,7 +19,7 @@ Number		: <NUMBER_OF_FLAG: int>	// Default is 100
 ### Example
 ```cmd
 Flags' name	: TNICYBER
-Length		: 16
+Length		: 32
 Number		: 10
 --------------------------------------------------
 TNICYBER{240b5d73e2e8ab4a41075c972de3ea5b}
