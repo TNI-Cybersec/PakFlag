@@ -1,5 +1,5 @@
 # PakFlag
-**PakFlag** (ปักธง) is a simple CTF flags generator, written in Python.
+**PakFlag** (In Thai: ปักธง) is a simple CTF flags generator, written in Python.
 
 ## Usage
 
