@@ -1,5 +1,5 @@
-# Flaggen : CTF Flag Generator
-# https://github.com/TNI-Cybersec/Flaggen
+# PakFlag : CTF Flags Generator
+# https://github.com/TNI-Cybersec/PakFlag
 
 from hashlib import pbkdf2_hmac
 from os import urandom
