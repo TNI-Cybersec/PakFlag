@@ -1,5 +1,5 @@
-# Flaggen
-**Flaggen** is a simple CTF flags generator, written in Python.
+# PakFlag
+**PakFlag** (ปักธง) is a simple CTF flags generator, written in Python.
 
 ## Usage
 
