@@ -1,5 +1,5 @@
 # Flaggen
-**Flaggen** is a simple CTF flag generator, written in Python.
+**Flaggen** is a simple CTF flags generator, written in Python.
 
 ## Usage
 
@@ -36,4 +36,5 @@ TNICYBER{362ca9ca90f302ce6b762b9bc2e04fe2}
 All flags has been saved as "TNICYBER_flags.txt"
 ```
 
-
+---
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
