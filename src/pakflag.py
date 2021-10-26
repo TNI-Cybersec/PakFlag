@@ -16,7 +16,7 @@ def gen_flag(name: str, n: int, dkl: int) -> None:
     write_flag(flags)
 
 
-def write_flag(flag):
+def write_flag(flag: list) -> None:
     with open(filename, mode='w') as file:
         file.writelines(flag)
 
@@ -25,7 +25,7 @@ def main():
     name = input("Flags' name\t: ").strip()
 
     length = input("Length\t\t: ")
-    length = int(length) if length.isnumeric() else None
+    length = int(int(length) / 2) if length.isnumeric() else None
 
     num = input("Number\t\t: ")
     num = int(num) if num.isnumeric() else 100
@@ -37,7 +37,7 @@ def main():
     gen_flag(name, num, length)
     print('-' * 50)
 
-    print('All flags have been saved as "{}"'.format(filename))
+    print('All flags has been saved as "{}"'.format(filename))
 
 
 if __name__ == '__main__':
