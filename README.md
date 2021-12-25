@@ -1,4 +1,14 @@
+<br>
+<img align="right" src="https://imgur.com/SN6ZqUt.png" width="450"></img>
+<p align="center">
+</br>	
+
 # PakFlag
+## By [TNI Cybersec](https://tni-cybersec.github.io)
+|Tool|[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)|
+|----|----|
+
+
 **PakFlag** (🇹🇭: ปักธง, 🇯🇵: パクフラグ) is a simple CTF flags generator, written in Python.
 
 ## Usage
@@ -37,4 +47,4 @@ All flags have been saved as "TNICYBER_flags.txt"
 ```
 
 ---
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+
